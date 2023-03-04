@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debaditya Bhar.
-- 👀 I’m interested in Web Development using MERN Stack, Python Scripting.
+- 👀 I’m interested in Web Development using MERN Stack, Python and Golang Scripting.
 - 🌱 I’m currently learning cutting edge technologies related to web development.
 - 💞️ I’m looking to collaborate on Learning and Development.
 - 📫 Reach me @ bhar.debaditya@gmail.com
